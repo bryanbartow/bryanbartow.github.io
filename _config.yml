@@ -23,18 +23,18 @@ projects:
   #   - stars
   limit: 9
   exclude:
-    forks: true
+    forks: false
     projects:
     # - repo-name
 
-# social_media:
+social_media:
   # behance: your_username
   # dribbble: your_username
-  # facebook: bryanbartow
-  # linkedin: bryanbartow
-  # medium: @bryanbartow
-  # stackoverflow: bryanbartow
-  # twitter: bryanbartow
+  facebook: bryanbartow
+  linkedin: bryanbartow
+  medium: @bryanbartow
+  stackoverflow: bryanbartow
+  twitter: bryanbartow
   # youtube: your_username
 
 topics:
